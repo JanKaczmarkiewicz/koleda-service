@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "@graphql-codegen/typescript-mongodb": "^1.17.8",
-    "apollo-server": "^2.12.0",
+    "apollo-server": "^2.25.4",
     "apollo-server-core": "^2.12.0",
     "bcryptjs": "^2.4.3",
     "co": "^4.6.0",
